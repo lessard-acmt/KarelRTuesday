@@ -111,8 +111,8 @@ Une execution typique se fait a partir d'un fichier dans le dossier `tasks/`.
 
 Par exemple :
 
-```bash
-bundle exec ruby tasks/main.rb
+```bash ou Rubymine
+ruby tasks/main.rb
 ```
 
 Selon l'activite choisie, vous pouvez modifier la tache executee ou utiliser d'autres fichiers dans le dossier `tasks/`.
