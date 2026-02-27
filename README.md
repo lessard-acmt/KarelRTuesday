@@ -1,6 +1,6 @@
 # Karel R Tuesday
 
-Projet pedagogique en **Ruby** concu pour le cours **ICS3U** (Ontario) afin d'aider les eleves a developper leurs competences en programmation, en **programmation orientee objet** et en techniques de resolution de problemes par le code.
+Projet pedagogique en **Ruby** concu pour le cours **ICS3U** afin d'aider les eleves a developper leurs competences en programmation, en **programmation orientee objet** et en techniques de resolution de problemes par le code.
 
 Ce projet s'appuie sur l'idee classique de **Karel le Robot**, un environnement d'apprentissage ou un robot execute des commandes simples dans un monde en 2D. L'approche permet aux eleves de se concentrer sur la logique, les algorithmes et la structure du code avant de passer a des projets plus complexes.
 
