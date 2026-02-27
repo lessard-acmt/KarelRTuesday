@@ -91,10 +91,11 @@ Le depot contient notamment les dossiers suivants :
 
 ## Installation
 
-### 1. Cloner le depot
+### 1. Forker et Cloner le depot
 
 ```bash
-git clone git@github.com:lessard-acmt/KarelRTuesday.git
+Fork le depot dans votre compte de Github
+Avec Github Desktop, faites un clone de VOTRE copie du depot
 cd KarelRTuesday
 ```
 
