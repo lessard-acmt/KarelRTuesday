@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gosu (1.4.6)
+    observer (0.1.2)
+
+PLATFORMS
+  arm64-darwin-25
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  gosu
+  observer
+
+CHECKSUMS
+  gosu (1.4.6) sha256=80c7fa48cf61f4960ef067fdd1c000d98b4adc8e11faeaa486543d00908a5c15
+  observer (0.1.2) sha256=d8a3107131ba661138d748e7be3dbafc0d82e732fffba9fccb3d7829880950ac
+
+BUNDLED WITH
+  4.0.3
